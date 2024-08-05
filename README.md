@@ -135,6 +135,7 @@ Persistent Volume (PV): a resource that is provisioned and managed by Kubernetes
 
 
 **Kafka Messaging**
+
 [GenAI Quarter 5 Online Class 13: Serialization and Deserialization Kafka Messages](https://www.youtube.com/watch?v=qVbAYHxW3xg&list=PL0vKVrkG4hWqWNAr6rcX0gOvU_eOULnJN&index=16)
 
 [15_event_driven: 02_kafka_messaging](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/15_event_driven/02_kafka_messaging)
