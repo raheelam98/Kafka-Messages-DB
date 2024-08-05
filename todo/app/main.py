@@ -74,7 +74,7 @@ async def consume_messages(topic, bootstrap_servers):
             # Example: Phrase the message, store it in a database, etc.
             await consumer.commit()  # Manually commit the offset after processing
     finally:
-        # Ensure to close the consumer when done.
+        # Ensure that the consumer is properly closed when done.
         await consumer.stop()  
 
 ### ============================================================================================================= ###
