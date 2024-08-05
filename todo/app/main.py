@@ -71,7 +71,7 @@ async def consume_messages(topic, bootstrap_servers):
         async for message in consumer:
             print(f"Consumer Received message: {message.value.decode()} on topic {message.topic}")
             # Here you can add code to process each message.
-            # Example: parse the message, store it in a database, etc.
+            # Example: Phrase the message, store it in a database, etc.
             await consumer.commit()  # Manually commit the offset after processing
     finally:
         # Ensure to close the consumer when done.
