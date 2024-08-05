@@ -159,7 +159,7 @@ Persistent Volume (PV): a resource that is provisioned and managed by Kubernetes
 [GenAI Quarter 5 Online Class 08: Docker Compose - Running Multi Containers with Docker Compose](https://www.youtube.com/watch?v=l5eZMAhDwhQ&list=PL0vKVrkG4hWoTh2SaepYf9N8ywxz_Cyfx&index=6)
 
 #### Dev Container
-[Dev Container Online Class 06: What is Dev Container (Development inside Containers) - Docker](https://www.youtube.com/watch?v=h32qw986-tI)
+[Dev Container Online Class 06: What is Dev Container - Development inside Containers - Docker](https://www.youtube.com/watch?v=h32qw986-tI)
 
 #### Kafka
 [GenAI Quarter 5 Online Class 12: Interact with Kafka using aiokafka - A Python Library for Kafka](https://www.youtube.com/watch?v=PAU05OrLgho)
